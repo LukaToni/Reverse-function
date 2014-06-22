@@ -1,0 +1,9 @@
+Write a program to read its input, one line at a time, and print each line backwards. 
+To do the reversing, write a function:
+
+	int reverse(char line[], int len)
+	{
+	...
+	}
+	
+to reverse a string, in place. (It doesn't have to return anything useful.)
